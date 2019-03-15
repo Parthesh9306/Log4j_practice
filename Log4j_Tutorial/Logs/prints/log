@@ -1,0 +1,9 @@
+20:27:01.248 [main] FATAL Beta.Demo1 - This is fatal 1
+20:27:26.760 [main] DEBUG Beta.Demo1 - I am debugging 1
+20:27:26.762 [main] INFO  Beta.Demo1 - Object is present 1
+20:27:26.762 [main] ERROR Beta.Demo1 - Object is not present 1
+20:27:26.762 [main] FATAL Beta.Demo1 - This is fatal 1
+20:27:46.529 [main] DEBUG Beta.Demo1 - I am debugging 1
+20:27:46.531 [main] INFO  Beta.Demo1 - Object is present 1
+20:27:46.531 [main] ERROR Beta.Demo1 - Object is not present 1
+20:27:46.531 [main] FATAL Beta.Demo1 - This is fatal 1
